@@ -5,7 +5,7 @@ public class IceBreaker {
     // NICKNAMES
     // Michael Gorbunov - Michael
     // Siddharth Lohani - Sid
-    //Aryan Kini - AKINI
+    //Aryan Kini - Akini
 
     // Embarassing moments
     // Michael Gorbunov - Once asked out someone who turned out to be lesbian.
